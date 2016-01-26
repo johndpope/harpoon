@@ -6,6 +6,11 @@ This version has been reorganized, code is cleaner, hooking time is halved (~0.0
 <br>
 Other updates are planned in the near future.
 
+
+clone latest capstone / compile and copy into root folder
+
+
+
 ### Warning
 *harpoon* is a just for fun project, meaning I'm not putting all my effort into it (for now, at least :P). This being said,
 beware. Runtime function hooking is sneaky stuff, and my *harpoon* itself is certainly not perfect.
